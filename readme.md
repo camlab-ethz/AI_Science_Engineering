@@ -2,9 +2,12 @@
 
 This repository is the official project page of the course AI in the Sciences and Engineering, ETH Zurich. 
 
-**Lecturers**: 	Prof. Dr. Siddhartha Mishra, Dr. Ben Moseley 
+On this page, we post the solutions of the tutorials.
+
+**Lecturers**: 	Prof. Dr. Siddhartha Mishra, Dr. Ben Moseley\
 **Assistants**: Bogdan Raonic, Victor Armegioiu
 
+## Topics
 
 **A selection of the following topics is presented in the lectures**:
 
@@ -18,4 +21,5 @@ This repository is the official project page of the course AI in the Sciences an
 
 Applications using these techniques will be illustrated across fluid dynamics, wave physics, medical physics, molecular design, and computational biology. Several examples where AI algorithms outperform traditional scientific workflows will be shown.
 
- 
+## Tutorials
+- **Tutorial 1** - Function Approximation with Pytorch (Colab)
