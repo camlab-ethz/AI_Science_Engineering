@@ -22,4 +22,5 @@ On this page, we post the solutions of the tutorials.
 Applications using these techniques will be illustrated across fluid dynamics, wave physics, medical physics, molecular design, and computational biology. Several examples where AI algorithms outperform traditional scientific workflows will be shown.
 
 ## Tutorials
-- **Tutorial 1** - Function Approximation with Pytorch (Colab)
+- **Tutorial 1** - Function Approximation with Pytorch
+- **Tutorial 2** - Cross Validation and Intro to CNNs
