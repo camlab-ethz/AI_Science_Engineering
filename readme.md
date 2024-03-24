@@ -26,3 +26,4 @@ Applications using these techniques will be illustrated across fluid dynamics, w
 - **Tutorial 2** - Cross Validation and Intro to CNNs
 - **Tutorial 3** - PINN Training
 - **Tutorial 4** - PINNs for Inverse Problems
+- **Tutorial 5** - Operator Learing - Fourier Neural Operator
