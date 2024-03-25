@@ -27,3 +27,4 @@ Applications using these techniques will be illustrated across fluid dynamics, w
 - **Tutorial 3** - PINN Training
 - **Tutorial 4** - PINNs for Inverse Problems
 - **Tutorial 5** - Operator Learing - Fourier Neural Operator
+- **Tutorial 6** - Operator Learing - Convolutional Neural Operator
