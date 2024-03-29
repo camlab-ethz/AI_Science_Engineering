@@ -7,6 +7,8 @@ On this page, we post the solutions of the tutorials.
 **Lecturers**: 	Prof. Dr. Siddhartha Mishra, Dr. Ben Moseley\
 **Assistants**: Bogdan Raonic, Victor Armegioiu
 
+Recordings of the lectures from 2023 can be at this YouTube [link](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm).
+
 ## Topics
 
 **A selection of the following topics is presented in the lectures**:
