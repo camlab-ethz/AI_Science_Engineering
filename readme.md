@@ -30,3 +30,5 @@ Applications using these techniques will be illustrated across fluid dynamics, w
 - **Tutorial 4** - PINNs for Inverse Problems
 - **Tutorial 5** - Operator Learing - Fourier Neural Operator
 - **Tutorial 6** - Operator Learing - Convolutional Neural Operator
+- **Tutorial 7** - Introduction to Graph Neural Networks
+- **Tutorial 8** - Vision Transformers for solving PDEs
