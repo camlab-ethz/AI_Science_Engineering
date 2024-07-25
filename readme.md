@@ -7,7 +7,8 @@ On this page, we post the solutions of the tutorials.
 **Lecturers**: 	Prof. Dr. Siddhartha Mishra, Dr. Ben Moseley\
 **Assistants**: Bogdan Raonic, Victor Armegioiu
 
-Recordings of the lectures from 2023 can be found at this YouTube [link](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm).
+### Course Page can be found at [this link](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html)
+### Recordings of the lectures be found at this YouTube [link](https://www.youtube.com/watch?v=LkKvhvsf6jY&list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r).
 
 ## Topics
 
@@ -24,11 +25,18 @@ Recordings of the lectures from 2023 can be found at this YouTube [link](https:/
 Applications using these techniques will be illustrated across fluid dynamics, wave physics, medical physics, molecular design, and computational biology. Several examples where AI algorithms outperform traditional scientific workflows will be shown.
 
 ## Tutorials
-- **Tutorial 1** - Function Approximation with Pytorch
-- **Tutorial 2** - Cross Validation and Intro to CNNs
-- **Tutorial 3** - PINN Training
-- **Tutorial 4** - PINNs for Inverse Problems
-- **Tutorial 5** - Operator Learning - Fourier Neural Operator
-- **Tutorial 6** - Operator Learning - Convolutional Neural Operator
-- **Tutorial 7** - Introduction to Graph Neural Networks
-- **Tutorial 8** - Vision Transformers for solving PDEs
+- **Tutorial 01** - Function Approximation with Pytorch
+- **Tutorial 02** - Cross Validation and Intro to CNNs
+- **Tutorial 03** - PINN Training
+- **Tutorial 04** - PINNs for Inverse Problems
+- **Tutorial 05** - Operator Learning - Fourier Neural Operator
+- **Tutorial 06** - Operator Learning - Convolutional Neural Operator
+- **Tutorial 07** - Introduction to Graph Neural Networks
+- **Tutorial 08** - Vision Transformers for solving PDEs
+- **Tutorial 09** - Denoising Diffusion Probabilistic Models - Please visit [this link](https://github.com/dataflowr/notebooks/blob/master/Module18/ddpm_nano_sol.ipynb) to access the notebook
+- **Tutorial 10** - Coding Autodiff
+- **Tutorial 11**  - Introduction to JAX, NDEs and diffusion models
+
+## Archive
+
+- Recordings of the 2023 lectures can be found at [this link](https://www.youtube.com/watch?v=y6wHpRzhhkA&list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
