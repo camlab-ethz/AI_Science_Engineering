@@ -5,7 +5,7 @@ This repository is the official project page of the course AI in the Sciences an
 **Lecturers**: 	Prof. Dr. Siddhartha Mishra, Dr. Ben Moseley\
 **Assistants**: Bogdan Raonic, Victor Armegioiu
 
-### Course Page can be found at [this link](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html)
+### Course page can be found at [this link](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html)
 ### Recordings of the lectures can be found at this YouTube [link](https://www.youtube.com/watch?v=LkKvhvsf6jY&list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r).
 
 ## Topics
