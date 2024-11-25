@@ -33,7 +33,11 @@ Applications using these techniques will be illustrated across fluid dynamics, w
 - **Tutorial 08** - Vision Transformers for solving PDEs
 - **Tutorial 09** - Denoising Diffusion Probabilistic Models - Please visit [this link](https://github.com/dataflowr/notebooks/blob/master/Module18/ddpm_nano_sol.ipynb) to access the notebook
 - **Tutorial 10** - Coding Autodiff
-- **Tutorial 11**  - Introduction to JAX, NDEs and diffusion models
+- **Tutorial 11** - Introduction to JAX, NDEs and diffusion models
+
+### New Tutorials from Fall 2024
+- Time Dependent CNO
+- Transfer Learning for PDEs
 
 ## Archive
 
